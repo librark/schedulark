@@ -1,0 +1,34 @@
+{
+  "name": "schedulark",
+  "description": "Job Scheduling Library",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "type": "module",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "standard": "^17.0.0"
+  },
+  "scripts": {
+    "options": "NODE_OPTIONS='--experimental-vm-modules --no-warnings'",
+    "test": "npm run options -- npx jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowark/schedularkjs.git"
+  },
+  "keywords": [
+    "scheduler",
+    "job"
+  ],
+  "author": "Knowark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knowark/schedularkjs/issues"
+  },
+  "jest": {
+    "transform": {}
+  },
+  "homepage": "https://github.com/knowark/schedularkjs#readme"
+}
