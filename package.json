@@ -12,7 +12,7 @@
   },
   "scripts": {
     "options": "NODE_OPTIONS='--experimental-vm-modules --no-warnings'",
-    "test": "npm run options -- npx jest --coverage"
+    "test": "npm run options -- npx jest --coverage --detectOpenHandles"
   },
   "repository": {
     "type": "git",
