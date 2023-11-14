@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://codecov.io/gh/librark/schedulark">
+    <img src="https://codecov.io/gh/librark/schedulark/graph/badge.svg?token=blaFaVDFrl"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://codecov.io/gh/librark/schedulark">
+    <img src="https://codecov.io/gh/librark/schedulark/graphs/sunburst.svg?token=blaFaVDFrl"/>
+  </a>
+</p>
+
 # Schedulark
 
 Job Scheduling Library
