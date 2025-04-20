@@ -1,7 +1,7 @@
 {
   "name": "@knowark/schedularkjs",
   "description": "Job Scheduling Library",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "main": "lib/index.js",
   "type": "module",
   "dependencies": {},
